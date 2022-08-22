@@ -1,0 +1,9 @@
+id,name,relationship,relative,relativename
+Q3034382,Rosario Murillo,child,Q107185102,Camila Ortega Murillo
+Q3034382,Rosario Murillo,spouse,Q57402,Daniel Ortega
+Q311355,Enrique Bolaños,spouse,Q6547494,Lila T. Abaunza
+Q356647,Arnoldo Alemán,spouse,Q107311981,María Fernanda Flores
+Q57402,Daniel Ortega,child,Q107185102,Camila Ortega Murillo
+Q57402,Daniel Ortega,sibling,Q4337098,Camilo Ortega
+Q57402,Daniel Ortega,sibling,Q4337101,Humberto Ortega
+Q57402,Daniel Ortega,spouse,Q3034382,Rosario Murillo
