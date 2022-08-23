@@ -1,0 +1,64 @@
+[
+  {
+    "office": {
+      "links": [
+        "National Assembly (Nicaragua)"
+      ],
+      "stated_as": "Member of the National Assembly of Nicaragua"
+    },
+    "P580": "1984-11-04",
+    "P582": "1990-02-25"
+  },
+  {
+    "office": {
+      "links": [
+        "First Lady of Nicaragua"
+      ],
+      "stated_as": "First Lady of Nicaragua"
+    },
+    "P580": "1985-01-10",
+    "P1365": {
+      "links": [
+        "Hope Portocarrero"
+      ],
+      "stated_as": "Hope Portocarrero (1979)"
+    },
+    "P582": "1990-04-25",
+    "P1366": {
+      "links": [
+        "Cristiana Chamorro Barrios"
+      ],
+      "stated_as": "Cristiana Chamorro Barrios"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "First Lady of Nicaragua"
+      ],
+      "stated_as": "First Lady of Nicaragua"
+    },
+    "P580": "2007-01-10",
+    "P1365": {
+      "links": [
+        "Lila T. Abaunza"
+      ],
+      "stated_as": "Lila T. Abaunza"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Vice President of Nicaragua"
+      ],
+      "stated_as": "Vice President of Nicaragua"
+    },
+    "P580": "2017-01-10",
+    "P1365": {
+      "links": [
+        "Moises Omar Halleslevens Acevedo"
+      ],
+      "stated_as": "Omar Halleslevens"
+    }
+  }
+]
