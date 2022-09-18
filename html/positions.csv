@@ -1,5 +1,8 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
-Q852448,President of Nicaragua,Q811,Q811,Q3649507,Q55162315,1854,,,,President of Nicaragua
-Q3649507,Vice President of Nicaragua,Q811,Q811,,,1893-09-15,,,,Vice President of Nicaragua
+Q18616113,Member of the National Assembly of Nicaragua,Q811,Q811,,,,,,,
 Q18345278,Minister of Foreign Affairs,Q811,Q811,,,,,,,Minister of Foreign Affairs (Nicaragua)
+Q30622591,Nicaraguan Ambassador to China,Q811,,,,,,,,List of ambassadors of Nicaragua to Taiwan
+Q852448,President of Nicaragua,Q811,Q811,Q3649507,Q55162315,1854,,,,President of Nicaragua
 Q113577101,President of the National Assembly of Nicaragua,,,,Q11812633,,,,,
+Q3649507,Vice President of Nicaragua,Q811,Q811,,,1893-09-15,,,,Vice President of Nicaragua
+Q106834464,ambassador of Nicaragua to Spain,Q811,,,Q6348442,,,,,
