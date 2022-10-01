@@ -2305,8 +2305,8 @@
           "inline": {}
         },
         {
-          "last": "Bischoping",
-          "first": "Katherine",
+          "last1": "Bischoping",
+          "first1": "Katherine",
           "last2": "Schuman",
           "first2": "Howard",
           "date": "1992",
@@ -2317,6 +2317,7 @@
           "issue": "2",
           "pages": "331–350",
           "doi": "10.2307/2111480",
+          "jstor": "2111480",
           "issn": "0092-5853",
           "template": "citation",
           "type": "journal"
@@ -3314,7 +3315,7 @@
           "title": "During pandemic, Nicaraguan doctors face political pressure",
           "url": "https://apnews.com/49ef7f8e763ad53f8555015581cf9b37",
           "access-date": "13 July 2020",
-          "agency": "AP",
+          "work": "AP News",
           "date": "6 July 2020",
           "template": "citation",
           "type": "news"
