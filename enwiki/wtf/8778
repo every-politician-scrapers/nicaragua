@@ -52,7 +52,7 @@
               }
             },
             {
-              "text": "Previously, he was leader of Nicaragua from 1979 to 1990, first as coordinator of the Junta of National Reconstruction (1979–1985) and then as President of Nicaragua (1985–1990).",
+              "text": "Previously he was leader of Nicaragua from 1979 to 1990, first as coordinator of the Junta of National Reconstruction (1979–1985) and then as President of Nicaragua (1985–1990).",
               "links": [
                 {
                   "type": "internal",
@@ -117,7 +117,7 @@
               ]
             },
             {
-              "text": "In later years, Ortega's previously left-wing radical politics moderated more and more, pursuing pro-business policies and even rapprochement with the Catholic Church, with the adoption of strong anti-abortion policies by his government in the 2000s, and adoption of strong religious rhetoric by the previously atheist Ortega.",
+              "text": "In later years, Ortega's left-wing radical politics cooled significantly, leading him to pursue pro-business policies and even rapprochement with the Catholic Church.",
               "links": [
                 {
                   "text": "radical politics",
@@ -127,11 +127,21 @@
                 {
                   "type": "internal",
                   "page": "Catholic Church"
-                },
+                }
+              ]
+            },
+            {
+              "text": "This was followed by the endorsement of strong anti-abortion policies by his government in the 2000s, along with a new and strongly religious tenor to the former-atheist's rhetoric.",
+              "links": [
                 {
                   "text": "anti-abortion",
                   "type": "internal",
                   "page": "anti-abortion"
+                },
+                {
+                  "text": "atheist's",
+                  "type": "internal",
+                  "page": "Atheism"
                 }
               ]
             }
@@ -217,10 +227,10 @@
               ]
             },
             {
-              "text": "The violent crackdown during 2018 protests and subsequential decrease of civil liberties have led to massive waves of migration to Costa Rica, with over 30,000 Nicaraguans filing for asylum in that neighboring country."
+              "text": "The violent crackdown during 2018 protests and subsequent constriction of civil liberties have led to massive waves of emigration to neighboring Costa Rica, with over 30,000 Nicaraguans filing for asylum in that country."
             },
             {
-              "text": "The repression intensified in his fourth term, ordering the closure of several NGOs, universities, and non-related newspapers.",
+              "text": "The repression intensified in his fourth term, when he ordered the closure of several NGOs, universities, and newspapers.",
               "links": [
                 {
                   "text": "NGOs",
@@ -237,7 +247,7 @@
               "text": "Repression against his political opponents increased in 2021."
             },
             {
-              "text": "His government jailed many of his potential rivals in the 2021 Nicaraguan general election, including Cristiana Chamorro Barrios, daughter of former president Violeta Barrios de Chamorro.",
+              "text": "His government jailed many of those who could serve as his rival in the 2021 Nicaraguan general election, including Cristiana Chamorro Barrios, daughter of former president Violeta Barrios de Chamorro.",
               "links": [
                 {
                   "text": "2021 Nicaraguan general election",
@@ -274,7 +284,7 @@
               "text": "Many critics of the Ortega government, including opposition leaders, journalists and members of civil society, fled the country in mid-2021."
             },
             {
-              "text": "After his 2021 re-election, Joe Biden banned the president from entering the United States.",
+              "text": "After his 2021 re-election, Joe Biden banned Ortega from entering the United States.",
               "links": [
                 {
                   "text": "2021 re-election",
@@ -615,8 +625,10 @@
         },
         {
           "url": "https://www.dw.com/en/us-bans-president-daniel-ortega-and-nicaraguan-officials-from-entry-to-the-us/a-59840708",
-          "title": "US bans President Daniel Ortega and Nicaraguan officials from entry to the US &#124; DW &#124; 17.11.2021",
+          "title": "US bans President Daniel Ortega and Nicaraguan officials from entry to the US",
           "website": "Deutsche Welle",
+          "date": "17 November 2021",
+          "access-date": "1 October 2022",
           "template": "citation",
           "type": "web"
         },
