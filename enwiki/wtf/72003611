@@ -1,0 +1,103 @@
+{
+  "title": "Gustavo Porras Cortés",
+  "pageID": 72003611,
+  "categories": [
+    "1954 births",
+    "Presidents of the National Assembly (Nicaragua)",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Gustavo Porras Cortés is a politician from Nicaragua who is serving as President of the National Assembly of Nicaragua from January 2017.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nicaragua"
+                },
+                {
+                  "type": "internal",
+                  "page": "President of the National Assembly of Nicaragua"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Gustavo Porras Cortés"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Lansford",
+          "first": "Tom",
+          "url": "https://books.google.com/books?id=VCFoDwAAQBAJ&newbks=0&printsec=frontcover&pg=RA2-PA1934&dq=gustavo+porras+cort%C3%A9s&hl=en",
+          "title": "Political Handbook of the World 2018-2019",
+          "date": "2019-03-19",
+          "publisher": "CQ Press",
+          "isbn": "978-1-5443-2711-2",
+          "language": "en",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "title": "COUNCIL IMPLEMENTING REGULATION (EU) 2021/1276 of 30 July 2021",
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32021R1276&from=EN",
+          "access-date": "2022-10-14",
+          "website": "European Union",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He was born in October 11, 1954 and graduated as General practitioner in National Autonomous University of Nicaragua.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "General practitioner"
+                },
+                {
+                  "type": "internal",
+                  "page": "National Autonomous University of Nicaragua"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Gustavo Eduardo Porras Cortés",
+          "url": "http://legislacion.asamblea.gob.ni/DiputadosWeb.nsf/a68c7e6ff9b6ec7206256b81006bbc63/0ef54f27ab2a669b062579c70072776b?OpenDocument",
+          "access-date": "2022-10-14",
+          "website": "National Assembly of Nicaragua",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "nicaragua-politician-stub"
+        }
+      ]
+    }
+  ]
+}
