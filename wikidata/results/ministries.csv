@@ -1,7 +1,8 @@
 item,itemLabel,minister,ministerLabel,began,ended
-Q20024716,Ministry of Education of Nicaragua,,,,
-Q85874982,Ministry of Finance and Public Credit of Nicaragua,,,,
+Q20024716,Ministry of Education of Nicaragua,Q114754397,Minister of Education of Nicaragua,,
+Q85874982,Ministry of Finance and Public Credit of Nicaragua,Q114754405,Minister of Finance and Public Credit of Nicaragua,,
 Q17142642,Ministry of Foreign Affairs of the Republic of Nicaragua,Q18345278,Minister of Foreign Affairs,,
 Q85874972,Ministry of Government of Nicaragua,,,,
-Q30282287,Ministry of Health,,,,
-Q6867683,Ministry of the Environment and Natural Resources,,,1994,
+Q30282287,Ministry of Health,Q114754414,Minister of Health,,
+Q6867683,Ministry of the Environment and Natural Resources,Q114754419,Minister of the Environment and Natural Resources,1994,
+Q56063607,Public Ministry of Nicaragua,Q114754816,Prosecutor General,,
