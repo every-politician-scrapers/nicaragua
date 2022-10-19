@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+        "name": "Nicaragua",
+        "id": "Q811"
+    },
+    "cabinet": {
+      "id":     "Q114755036",
+      "start":  "2022-06-29",
+      "end":    "2022-06-30",
+      "parent": "Q113577074"
+    },
+    "reference": {
+        "P248": "Q114398425",
+        "P304": "466"
+    },
+    "lang": "en",
+    "person_description": {
+        "en": "Nicaraguan politician"
+    }
+}
