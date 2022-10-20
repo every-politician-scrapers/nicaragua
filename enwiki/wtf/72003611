@@ -12,6 +12,9 @@
       "depth": 0,
       "paragraphs": [
         {
+          "sentences": []
+        },
+        {
           "sentences": [
             {
               "text": "Gustavo Porras Cortés is a politician from Nicaragua who is serving as President of the National Assembly of Nicaragua from January 2017.",
@@ -32,6 +35,15 @@
               }
             }
           ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Gustavo_Porras_Cortés.png",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Gustavo_Porras_Cort%C3%A9s.png?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Gustavo_Porras_Cort%C3%A9s.png",
+          "caption": "200px",
+          "links": []
         }
       ],
       "references": [

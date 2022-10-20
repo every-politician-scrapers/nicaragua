@@ -1,0 +1,162 @@
+{
+  "title": "Ana Julia Guido",
+  "pageID": 68480443,
+  "categories": [
+    "1959 births",
+    "Living people",
+    "People from Matagalpa Department",
+    "20th-century Nicaraguan lawyers",
+    "21st-century Nicaraguan women politicians",
+    "21st-century Nicaraguan politicians",
+    "21st-century Nicaraguan lawyers",
+    "Nicaraguan women lawyers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ana Julia Guido Ochoa (born 16 February 1959) is a Nicaraguan jurist who currently serves as Attorney General of Nicaragua.",
+              "formatting": {
+                "bold": [
+                  "Ana Julia Guido Ochoa"
+                ]
+              }
+            },
+            {
+              "text": "She is the first woman to appointed to the post."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In August 2021, Guido was made subject to personal sanctions by the European Union, over alleged human rights violations.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "European Union"
+                }
+              ]
+            },
+            {
+              "text": "This froze any assets in the EU and barred doing business with European companies or traveling to the EU."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Nicaraguan jurist",
+          "template": "short description"
+        },
+        {
+          "df": "y",
+          "year": "1959",
+          "month": "2",
+          "day": "16",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Ana Julia Guido"
+          },
+          "office": {
+            "text": "Attorney General of Nicaragua",
+            "links": [
+              {
+                "text": "Attorney General of Nicaragua",
+                "type": "internal",
+                "page": "Public Ministry of Nicaragua"
+              }
+            ]
+          },
+          "president": {
+            "text": "Daniel Ortega",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Daniel Ortega"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "10 April 2014"
+          },
+          "predecessor": {
+            "text": "Hernan Estrada Santamaria"
+          },
+          "birth_name": {
+            "text": "Ana Julia Guido Ochoa"
+          },
+          "birth_date": {
+            "text": "February 16, 1959"
+          },
+          "birth_place": {
+            "text": "Matagalpa, Nicaragua",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Matagalpa"
+              },
+              {
+                "type": "internal",
+                "page": "Nicaragua"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.lavozdelsandinismo.com/nicaragua/2014-04-10/electa-una-mujer-como-fiscal-general-de-la-republica/",
+          "title": "Electa una mujer como Fiscal General de la República",
+          "date": "2014-04-10",
+          "work": "La Voz del Sandinismo",
+          "access-date": "2018-03-16",
+          "language": "es-ES",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "EU sanctions Nicaragua’s first lady and vice-president over human rights violations",
+          "url": "https://www.theguardian.com/world/2021/aug/02/eu-sanctions-nicaragua-first-lady-vice-president",
+          "website": "Guardian",
+          "access-date": "8 August 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-08-02",
+          "title": "Unión Europea sanciona a Rosario Murillo y otros siete funcionarios orteguistas",
+          "url": "https://www.confidencial.com.ni/politica/union-europea-sanciona-a-rosario-murillo-y-otros-siete-funcionarios-orteguistas/",
+          "access-date": "2021-08-03",
+          "website": "Confidencial",
+          "language": "es",
+          "archive-date": "2021-08-02",
+          "archive-url": "https://web.archive.org/web/20210802210546/https://www.confidencial.com.ni/politica/union-europea-sanciona-a-rosario-murillo-y-otros-siete-funcionarios-orteguistas/",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}
