@@ -2353,6 +2353,14 @@
           "type": "news"
         },
         {
+          "title": "CIDOB",
+          "url": "http://www.cidob.org/biografias_de_lideres_politicos/america_central_y_caribe/nicaragua/daniel_ortega_saavedra",
+          "access-date": "2022-10-20",
+          "website": "CIDOB",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "last1": "Marti i Puig",
           "first1": "Salvador",
           "last2": "Wright",
@@ -2374,10 +2382,6 @@
           "type": "inline",
           "data": {},
           "inline": {}
-        },
-        {
-          "date": "August 2010",
-          "template": "citation needed"
         }
       ]
     },
@@ -3048,6 +3052,14 @@
       ],
       "references": [
         {
+          "title": "Informe No. 18/19 OAS.org",
+          "url": "https://www.oas.org/es/cidh/decisiones/2019/NIAD1261-08ES.pdf",
+          "url-status": "live",
+          "website": "OAS - Organization of American States: Democracy for peace, security, and development",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "url": "http://www.cnn.com/2008/WORLD/americas/11/12/nicaragua.elections/",
           "title": "Review follows election fraud allegations in Nicaragua",
           "publisher": "CNN",
@@ -3332,10 +3344,6 @@
           "date": "6 July 2020",
           "template": "citation",
           "type": "news"
-        },
-        {
-          "date": "January 2022",
-          "template": "citation needed"
         }
       ]
     },
@@ -4066,6 +4074,14 @@
           "type": "news"
         },
         {
+          "title": "Pésame de Ortega causa estupor • Archivo",
+          "url": "http://archivo.elnuevodiario.com.ni/politica/238361-pesame-ortega-causa-estupor/",
+          "url-status": "dead",
+          "website": "El nuevo Diario",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "url": "http://en.rian.ru/world/20080904/116538071.html",
           "title": "Nicaragua recognizes South Ossetia and Abkhazia",
           "work": "rian.ru",
@@ -4180,10 +4196,6 @@
           "url-access": "registration",
           "template": "citation",
           "type": "book"
-        },
-        {
-          "date": "June 2021",
-          "template": "citation needed"
         }
       ]
     },
