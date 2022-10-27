@@ -3274,9 +3274,14 @@
         {
           "url": "https://www.nytimes.com/2020/05/31/world/americas/coronavirus-nicaragua-burials.html",
           "title": "Resisting Lockdown, Nicaragua Becomes a Place of Midnight Burials",
+          "newspaper": "The New York Times",
           "agency": "New York Yimes",
           "date": "1 June 2020",
           "access-date": "3 August 2021",
+          "last1": "Bermúdez",
+          "first1": "Alfonso Flores",
+          "last2": "Robles",
+          "first2": "Frances",
           "template": "citation",
           "type": "news"
         },
