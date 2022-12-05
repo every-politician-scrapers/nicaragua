@@ -128,17 +128,26 @@
                   "page": "Catholic Church"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
-              "text": "This was followed by the endorsement of strong anti-abortion policies by his government in the 2000s, along with a new and strongly religious tenor to the former-atheist's rhetoric.",
+              "text": "This was followed in the 2000s by his government's endorsement of strong anti-abortion policies.",
               "links": [
                 {
                   "text": "anti-abortion",
                   "type": "internal",
                   "page": "anti-abortion"
-                },
+                }
+              ]
+            },
+            {
+              "text": "Ortega's rhetoric took on a new, strongly religious tenor, although he had formerly claimed to be an atheist.",
+              "links": [
                 {
-                  "text": "atheist's",
+                  "text": "atheist",
                   "type": "internal",
                   "page": "Atheism"
                 }
@@ -164,7 +173,11 @@
             },
             {
               "text": "He continued to be an important figure in Nicaraguan opposition politics."
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
               "text": "Ortega was an unsuccessful candidate for president in 1996 and 2001 but won the 2006 Nicaraguan general election.",
               "links": [
@@ -183,7 +196,11 @@
                   "page": "Hugo Chávez"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
               "text": "Under Ortega's leadership, Nicaragua joined the Bolivarian Alliance for the Americas.",
               "links": [
@@ -194,7 +211,7 @@
               ]
             },
             {
-              "text": "His second administration became increasingly antidemocratic, alienating many of his former revolutionary allies, some of whom compared him to Somoza, who they had overthrown.",
+              "text": "His second administration became increasingly anti-democratic, alienating many of his former revolutionary allies, some of whom compared him to Somoza, whom they had overthrown.",
               "links": [
                 {
                   "text": "Somoza",
@@ -226,8 +243,12 @@
               ]
             },
             {
-              "text": "The violent crackdown during 2018 protests and subsequent constriction of civil liberties have led to massive waves of emigration to neighboring Costa Rica, with over 30,000 Nicaraguans filing for asylum in that country."
-            },
+              "text": "The violent crackdown during 2018 protests and subsequent constriction of civil liberties have led to massive waves of emigration to neighboring Costa Rica, with more than 30,000 Nicaraguans filing for asylum in that country."
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
               "text": "The repression intensified in his fourth term, when he ordered the closure of several NGOs, universities, and newspapers.",
               "links": [
@@ -246,7 +267,7 @@
               "text": "Repression against his political opponents increased in 2021."
             },
             {
-              "text": "His government jailed many of those who could serve as his rival in the 2021 Nicaraguan general election, including Cristiana Chamorro Barrios, daughter of former president Violeta Chamorro.",
+              "text": "His government jailed many potential rival candidates in the 2021 Nicaraguan general election, including Cristiana Chamorro Barrios, daughter of former president Violeta Chamorro.",
               "links": [
                 {
                   "text": "2021 Nicaraguan general election",
@@ -260,7 +281,7 @@
               ]
             },
             {
-              "text": "Ortega's government imprisoned others who opposed him, including former allies Dora Maria Tellez and Hugo Torres Jiménez.",
+              "text": "Ortega's government also imprisoned other opponents, such as former allies Dora Maria Tellez and Hugo Torres Jiménez.",
               "links": [
                 {
                   "type": "internal",
@@ -279,10 +300,10 @@
               "text": "Many critics of the Ortega government, including opposition leaders, journalists and members of civil society, fled the country in mid-2021."
             },
             {
-              "text": "After his 2021 re-election, Joe Biden banned Ortega from entering the United States.",
+              "text": "After Ortega was re-elected in 2021, President Joe Biden banned him and his officials from entering the United States because of their political repression.",
               "links": [
                 {
-                  "text": "2021 re-election",
+                  "text": "re-elected in 2021",
                   "type": "internal",
                   "page": "2021 Nicaraguan general election"
                 },
@@ -3054,6 +3075,8 @@
         {
           "title": "Informe No. 18/19 OAS.org",
           "url": "https://www.oas.org/es/cidh/decisiones/2019/NIAD1261-08ES.pdf",
+          "archive-url": "https://web.archive.org/web/20190828071852/http://www.oas.org/es/cidh/decisiones/2019/NIAD1261-08ES.pdf",
+          "archive-date": "2019-08-28",
           "url-status": "live",
           "website": "OAS - Organization of American States: Democracy for peace, security, and development",
           "template": "citation",
@@ -5136,6 +5159,9 @@
         },
         {
           "url": "https://cde.gestion2.e3.pe/doc/0/0/1/5/2/152563.pdf",
+          "archive-url": "https://web.archive.org/web/20191101094328/https://cde.gestion2.e3.pe/doc/0/0/1/5/2/152563.pdf",
+          "archive-date": "2019-11-01",
+          "url-status": "live",
           "title": "Condecorados: Orden El Sol Del Perú",
           "publisher": "Ministerio de Relaciones Exteriores",
           "access-date": "9 August 2021",

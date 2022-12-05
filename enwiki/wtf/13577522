@@ -162,6 +162,9 @@
           "image": {
             "text": "2017 Rosario Murillo (cropped).jpg"
           },
+          "caption": {
+            "text": "Murillo in 2017"
+          },
           "office": {
             "text": "Vice President of Nicaragua",
             "links": [
@@ -930,7 +933,7 @@
         {
           "sentences": [
             {
-              "text": "A polyglot, she speaks Spanish, English, Italian and French;<(disputed)> she also reads German.",
+              "text": "A polyglot, she speaks Spanish, English, Italian and French; she also reads German.",
               "links": [
                 {
                   "text": "polyglot",
@@ -1020,6 +1023,12 @@
               ]
             }
           ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "December 2022",
+          "template": "disputed-inline"
         }
       ],
       "references": [
@@ -1224,6 +1233,15 @@
       ]
     },
     {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
       "title": "Further reading",
       "depth": 0,
       "paragraphs": [
@@ -1231,34 +1249,7 @@
           "sentences": []
         }
       ],
-      "lists": [
-        [
-          {
-            "text": "Murillo, Rosario. \"Intellectuals and the Sovereignty of the People.\" Contemporary Marxism, no. 6 (1983): 183–92.",
-            "formatting": {
-              "italic": [
-                "Contemporary Marxism"
-              ]
-            }
-          },
-          {
-            "text": "Manupelli, George. \"Aid to the Arts of Nicaragua.\" Leonardo 16, no. 2 (1983): 159–159. doi:10.2307/1574841.",
-            "formatting": {
-              "italic": [
-                "Leonardo"
-              ]
-            }
-          }
-        ]
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
       "templates": [
-        {
-          "template": "reflist"
-        },
         {
           "template": "s-start"
         },
@@ -1325,6 +1316,26 @@
         {
           "template": "authority control"
         }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Murillo, Rosario. \"Intellectuals and the Sovereignty of the People.\" Contemporary Marxism, no. 6 (1983): 183–92.",
+            "formatting": {
+              "italic": [
+                "Contemporary Marxism"
+              ]
+            }
+          },
+          {
+            "text": "Manupelli, George. \"Aid to the Arts of Nicaragua.\" Leonardo 16, no. 2 (1983): 159–159. doi:10.2307/1574841.",
+            "formatting": {
+              "italic": [
+                "Leonardo"
+              ]
+            }
+          }
+        ]
       ]
     }
   ]
