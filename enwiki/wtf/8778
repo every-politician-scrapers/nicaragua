@@ -3427,12 +3427,33 @@
         {
           "sentences": [
             {
-              "text": "In June 2018, Tim Rogers wrote in The Atlantic magazine:\"Over the past seven weeks, Ortega’s police and paramilitaries have killed more than 120 people, mostly students and other young protesters who are demanding the president’s ouster and a return to democracy, according to a human-rights group [CENIDH, Nicaraguan Center for Human Rights]. Police hunt students like enemy combatants. Sandinista Youth paramilitaries, armed and paid by Ortega’s party, drive around in pickup trucks attacking protesters. Gangs of masked men loot and burn shops with impunity. Cops wear civilian clothing, and some paramilitaries dress in police uniforms. “This is starting to look more like Syria than Caracas,” one Nicaraguan business leader told me.\"",
+              "text": "In June 2018, Tim Rogers wrote in The Atlantic magazine: Over the past seven weeks, Ortega’s police and paramilitaries have killed more than 120 people, mostly students and other young protesters who are demanding the president’s ouster and a return to democracy, according to a human-rights group [CENIDH, Nicaraguan Center for Human Rights].",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nicaraguan Center for Human Rights"
+                }
+              ],
               "formatting": {
                 "italic": [
                   "The Atlantic"
                 ]
               }
+            },
+            {
+              "text": "Police hunt students like enemy combatants."
+            },
+            {
+              "text": "Sandinista Youth paramilitaries, armed and paid by Ortega’s party, drive around in pickup trucks attacking protesters."
+            },
+            {
+              "text": "Gangs of masked men loot and burn shops with impunity."
+            },
+            {
+              "text": "Cops wear civilian clothing, and some paramilitaries dress in police uniforms."
+            },
+            {
+              "text": "“This is starting to look more like Syria than Caracas,” one Nicaraguan business leader told me."
             }
           ]
         },
@@ -3468,10 +3489,6 @@
             "2018–2021 Nicaraguan protests"
           ],
           "template": "see"
-        },
-        {
-          "text": "Over the past seven weeks, Ortega’s police and paramilitaries have killed more than 120 people, mostly students and other young protesters who are demanding the president’s ouster and a return to democracy, according to a human-rights group [CENIDH, Nicaraguan Center for Human Rights]. Police hunt students like enemy combatants. Sandinista Youth paramilitaries, armed and paid by Ortega’s party, drive around in pickup trucks attacking protesters. Gangs of masked men loot and burn shops with impunity. Cops wear civilian clothing, and some paramilitaries dress in police uniforms. “This is starting to look more like Syria than Caracas,” one Nicaraguan business leader told me.",
-          "template": "blockquote"
         }
       ],
       "references": [
