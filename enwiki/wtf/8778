@@ -4331,14 +4331,7 @@
     },
     {
       "title": "Electoral history",
-      "depth": 0,
-      "templates": [
-        {
-          "reason": "The 2021 election is missing",
-          "date": "November 2021",
-          "template": "update section"
-        }
-      ]
+      "depth": 0
     },
     {
       "title": "1984 general election",
