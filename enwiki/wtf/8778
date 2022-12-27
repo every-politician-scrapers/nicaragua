@@ -5017,7 +5017,13 @@
       "lists": [
         [
           {
-            "text": "ABK Order of Honour and Glory 1st class ribbon 218.svg Order of Honor and Glory, First Class"
+            "text": "ABK Order of Honour and Glory 1st class ribbon 218.svg Order of Honor and Glory, First Class",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Order of Honor and Glory"
+              }
+            ]
           },
           {
             "text": "Ribbon jose marti.png Order of José Martí",
